@@ -3,7 +3,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### Minas Gerais
 
-### Belo Horizonte
+#### Belo Horizonte
  - Bysat
  - Devex/Hexagon
  - Engetron
@@ -38,3 +38,15 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Senai
  - Sense
  - Volt
+ 
+### São Paulo
+
+#### Osasco
+ - ABC Drives
+ - Sem Parar
+
+#### São Paulo
+ - DIMEP
+ - EasyTech
+ - Gertec
+ - Technicolor
