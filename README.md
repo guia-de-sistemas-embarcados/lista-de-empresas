@@ -3,6 +3,25 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### Minas Gerais
 
+### Belo Horizonte
+ - Bysat
+ - Devex/Hexagon
+ - Engetron
+ - Empresa1
+ - HTP
+ - LogPyx
+ - Maxtrack
+ - Metrum
+ - Mestria
+ - Nansen
+ - Neocontrol
+ - PolSec
+ - Sascar Contagem
+ - Seva
+ - Sitrack
+ - Strider
+ - Tacom
+
 #### Santa Rita do Sapucaí
  - CCN Telecom
  - Exsto
