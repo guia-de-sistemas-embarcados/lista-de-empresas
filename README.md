@@ -9,26 +9,26 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Minas Gerais<a name="idMG"></a>
 
 #### Belo Horizonte
- - Bysat
- - Devex/Hexagon
- - Engetron
- - Empresa1
- - HTP
- - LogPyx
- - Maxtrack
- - Metrum
- - Mestria
- - Nansen
- - Neocontrol
- - PolSec
- - Sascar Contagem
- - Seva
- - Sitrack
- - Strider
- - Tacom
+ - [Bysat](http://site.bysat.com.br/)
+ - [Devex/Hexagon](hexagon.com.br)
+ - [Engetron](https://www.engetron.com.br/)
+ - [Empresa1](https://www.empresa1.com.br/)
+ - [HTP](www.htp.com.br)
+ - [LogPyx](https://www.logpyx.com/)
+ - [Maxtrack](https://maxtrack.com.br/)
+ - [Metrum](https://memt.com.br)
+ - [Mestria](https://www.mestria.com.br/)
+ - [Nansen](http://nansen.com.br/)
+ - [Neocontrol](https://www.neocontrol.com.br/)
+ - [PolSec](http://polsec.com.br/)
+ - [Sascar Contagem](https://www.sascar.com.br/)
+ - [Seva](http://www.seva.com.br/)
+ - [Sitrack](sitrack.com)
+ - [Strider](https://strider.ag/)
+ - [Tacom](http://www.tacom.com.br/)
  
  ### Betim
- - MSX Internacional
+ - MSX Internacional(www.msxi.com)
  
 
 #### Santa Rita do Sapucaí
