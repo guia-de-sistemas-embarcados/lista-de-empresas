@@ -27,7 +27,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Strider](https://strider.ag/)
  - [Tacom](http://www.tacom.com.br/)
  
- ### Betim
+#### Betim
  - [MSX Internacional](www.msxi.com)
  
 
@@ -51,7 +51,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Sense](www.sense.com.br) 
  - [Volt](http://volt.ind.br/)
  
+#### Varginha
+ - [Philips](https://www.philips.com.br/healthcare/resources/landing/varginha)
+ 
 ### São Paulo<a name="idSP"></a>
+
+#### Campinas
+- [Bosch](https://www.bosch.com.br/)
+- [CI&T](https://br.ciandt.com/)
+- [Instituto Eldorado](https://www.eldorado.org.br/)
+- [OneRF Networks](http://www.onerf.com.br/)
 
 #### Osasco
  - ABC Drives
@@ -70,6 +79,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Trendx
  - Unicoba Energia S.A.
  - Technicolor
+ 
+#### São José dos Campos
+- [Embraer](https://embraer.com/br/pt) 
  
 #### Valinhos
 - Toradex Brasil
