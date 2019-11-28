@@ -1,7 +1,12 @@
 ## Brasil
 Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
-### Minas Gerais
+**Índice**   
+1. [Minas Gerais](#iidMG)
+2. [São Paulo](#idSP)
+3. [Paraná](#idPR)
+
+### Minas Gerais<a name="idMG"></a>
 
 #### Belo Horizonte
  - Bysat
@@ -43,7 +48,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Sense
  - Volt
  
-### São Paulo
+### São Paulo<a name="idSP"></a>
 
 #### Osasco
  - ABC Drives
@@ -66,7 +71,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Valinhos
 - Toradex Brasil
  
-### Paraná
+### Paraná<a name="idPR"></a>
 
 #### Campo Mourão
 - Fortron Tecnologia Agrícola
