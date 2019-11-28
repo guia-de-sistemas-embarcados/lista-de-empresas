@@ -21,6 +21,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Sitrack
  - Strider
  - Tacom
+ 
+ ### Betim
+ - MSX Internacional
+ 
 
 #### Santa Rita do Sapucaí
  - CCN Telecom
@@ -46,7 +50,27 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Sem Parar
 
 #### São Paulo
+ - Assisfit
  - DIMEP
- - EasyTech
+ - Digicrom Analítica Ltda.
+ - Easytech Tecnologia
+ - OnBoard Mobility Brasil LTDA
  - Gertec
+ - GW
+ - MSX International
+ - SETIS AUTOMAÇÃO E SISTEMAS LTDA
+ - Trendx
+ - Unicoba Energia S.A.
  - Technicolor
+ 
+#### Valinhos
+- Toradex Brasil
+ 
+### Paraná
+
+#### Campo Mourão
+- Fortron Tecnologia Agrícola
+
+#### Curitiba
+ - Exati Tecnologia
+
