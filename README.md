@@ -28,25 +28,28 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Tacom](http://www.tacom.com.br/)
  
  ### Betim
- - MSX Internacional(www.msxi.com)
+ - [MSX Internacional](www.msxi.com)
  
 
 #### Santa Rita do Sapucaí
- - CCN Telecom
- - Exsto
- - Inatel
- - Intelbras
- - Intelliges
- - JFL Alarmes
- - Kva
- - Leucotron
- - Lider
- - Nice
- - PD Soluções
- - RWTECH
- - Senai
- - Sense
- - Volt
+ - [CCN Telecom](https://ccntelecom.com.br/)
+ - [Exsto](www.exsto.com.br)
+ - [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/)
+ - [Inatel ICC](https://www.inatel.br/icc/)
+ - [Intelbras](www.intelbras.com.br)
+ - [Intelliges](www.intelliges.com.br)
+ - [JFL Alarmes](www.jfl.com.br)
+ - [Kva](www.kva.com.br)
+ - [Leucotron](www.leucotron.com.br)
+ - [Lider](https://www.lidermg.com.br/) 
+ - [Nice](www.nice.com.br)
+ - [PD Soluções](www.pdsolucoes.com.br)
+ - [Pixel TI](http://www.pixelti.com.br/)
+ - [RWTECH](www.rwtech.com.br)
+ - [Sanders](https://sandersdobrasil.com.br/)
+ - [Senai CDTSVE Stefan Bogdan Salej](https://www7.fiemg.com.br/regionais/sul/unidade/senai-santa-rita-do-sapucai-cdtsve-stefan-bogdan-salej)
+ - [Sense](www.sense.com.br) 
+ - [Volt](http://volt.ind.br/)
  
 ### São Paulo<a name="idSP"></a>
 
