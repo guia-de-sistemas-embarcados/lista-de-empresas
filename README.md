@@ -3,8 +3,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 **Índice**   
 1. [Minas Gerais](#iidMG)
-2. [São Paulo](#idSP)
-3. [Paraná](#idPR)
+2. [Paraná](#idPR)
+3. [Santa Catarina](#idSC)
+4. [São Paulo](#idSP)
+
+***
 
 ### Minas Gerais<a name="idMG"></a>
 
@@ -53,14 +56,37 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  
 #### Varginha
  - [Philips](https://www.philips.com.br/healthcare/resources/landing/varginha)
+
+***
+
+### Paraná<a name="idPR"></a>
+
+#### Campo Mourão
+- Fortron Tecnologia Agrícola
+
+#### Curitiba
+ - Exati Tecnologia
+
+***
+ 
+### Santa Catarina<a name="idSC"></a>
+
+#### Florianópolis
+- [Intelbras](www.intelbras.com.br)
+
+***
  
 ### São Paulo<a name="idSP"></a>
+
+#### Barueri
+- [Omnilink](www.omnilink.com.br)
 
 #### Campinas
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
+- [Transdata](https://www.itstransdata.com/)
 
 #### Osasco
  - ABC Drives
@@ -84,13 +110,6 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Embraer](https://embraer.com/br/pt) 
  
 #### Valinhos
-- Toradex Brasil
- 
-### Paraná<a name="idPR"></a>
+- Toradex Brasil 
 
-#### Campo Mourão
-- Fortron Tecnologia Agrícola
-
-#### Curitiba
- - Exati Tecnologia
 
