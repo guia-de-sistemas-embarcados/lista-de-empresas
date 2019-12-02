@@ -2,10 +2,19 @@
 Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 **Índice**   
-1. [Minas Gerais](#iidMG)
-2. [Paraná](#idPR)
-3. [Santa Catarina](#idSC)
-4. [São Paulo](#idSP)
+1. [Amazonas](#idAM)
+2. [Minas Gerais](#idMG)
+3. [Paraná](#idPR)
+4. [Pernambuco](#idPE)
+5. [Santa Catarina](#idSC)
+6. [São Paulo](#idSP)
+
+***
+
+### Amazonas<a name=""idAM"</a>
+#### Manaus
+- [AOC](http://www.aoc.com.br/) 
+- [Samsung](https://www.samsung.com/br/)
 
 ***
 
@@ -66,6 +75,14 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Curitiba
  - Exati Tecnologia
+ 
+#### Foz do Iguaçú
+- [Parque Tecnologico Itaipú (PTI)](https://www.pti.org.br/)
+
+***
+
+### Pernambuco<a name="idPE"></a>
+- [Cesar](https://www.cesar.org.br/)
 
 ***
  
@@ -83,6 +100,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Barueri
 - [Omnilink](www.omnilink.com.br)
+- [Honeywell](https://www.honeywell.com/en-us/global/pt-br)
 
 #### Campinas
 - [Bosch](https://www.bosch.com.br/)
@@ -96,6 +114,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Sem Parar
 
 #### São Paulo
+ - [AOC](http://www.aoc.com.br/) 
  - Assisfit
  - DIMEP
  - Digicrom Analítica Ltda.
@@ -104,14 +123,19 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Gertec
  - GW
  - MSX International
+ - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - SETIS AUTOMAÇÃO E SISTEMAS LTDA
+ - Technicolor
  - Trendx
  - Unicoba Energia S.A.
- - Technicolor
+ 
  
 #### São José dos Campos
 - [Embraer](https://embraer.com/br/pt) 
  
+#### Taubaté
+- - [LG](https://www.lg.com/br)
+
 #### Valinhos
 - Toradex Brasil 
 
