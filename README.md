@@ -11,7 +11,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ***
 
-### Amazonas<a name="idAM"</a>
+### Amazonas<a name="idAM"></a>
+
 #### Manaus
 - [AOC](http://www.aoc.com.br/) 
 - [Samsung](https://www.samsung.com/br/)
