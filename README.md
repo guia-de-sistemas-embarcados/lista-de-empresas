@@ -176,23 +176,37 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [OneRF Networks](http://www.onerf.com.br/)
 - [Transdata](https://www.itstransdata.com/)
 
+#### Diadema
+- TRW Automotive
+
 #### Osasco
  - ABC Drives
  - Sem Parar
 
+#### São Bernardo do Campo
+- Artebtech
+ 
+#### São Caetano do Sul
+- NetVoice
+
 #### São Paulo
  - [AOC](http://www.aoc.com.br/) 
+ - Altran
  - Assisfit
  - DIMEP
  - Digicrom Analítica Ltda.
+ - Digimat
  - Easytech Tecnologia
  - OnBoard Mobility Brasil LTDA
  - Gertec
  - GW
+ - Globant
+ - Indebrás
  - MSX International
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - SETIS AUTOMAÇÃO E SISTEMAS LTDA
- - Technicolor
+ - Technicolor 
+ - Telemática Sistemas Inteligentes
  - Trendx
  - Unicoba Energia S.A.
  
