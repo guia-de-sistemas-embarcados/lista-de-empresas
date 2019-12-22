@@ -143,6 +143,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Piauí<a name="idPI"></a>
 ***
 ### Rio de Janeiro<a name="idRJ"></a>
+#### Rio de Janeiro
+- [Rio Analytics](rioanalytics.com.br)
+
 ***
 ### Rio Grande do Norte<a name="idRN"></a>
 ***
