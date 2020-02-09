@@ -114,6 +114,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  
 #### Varginha
  - [Philips](https://www.philips.com.br/healthcare/resources/landing/varginha)
+ - [Signify (Philips Light)](https://www.signify.com/pt-br)
 
 ***
 
@@ -150,6 +151,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Rio Grande do Norte<a name="idRN"></a>
 ***
 ### Rio Grande do Sul<a name="idRS"></a>
+#### Canoas
+- [EXATRON](https://www.exatron.com.br/)
+- [Novus](https://www.novus.com.br/site/)
 ***
 ### Rondônia<a name="idRO"></a>
 ***
@@ -157,9 +161,12 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
  
 ### Santa Catarina<a name="idSC"></a>
+#### Criciúma
+ - [Sistema Info](https://sistemainfo.com.br/)
 
 #### Florianópolis
 - [Intelbras](www.intelbras.com.br)
+- [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
 
 ***
  
@@ -176,42 +183,48 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
+- [Kryptus](https://www.kryptus.com/)
 - [OneRF Networks](http://www.onerf.com.br/)
+- [Pósitron](https://www.positron.com.br/)
 - [Transdata](https://www.itstransdata.com/)
+
 
 #### Diadema
 - TRW Automotive
 
 #### Osasco
- - ABC Drives
- - Sem Parar
+ - [ABC Drives](http://www.abcdrives.com.br/)
+ - [Sem Parar](https://www.semparar.com.br/)
 
 #### São Bernardo do Campo
-- Artebtech
+- [Artebtech](https://www.arteb.com.br/)
  
 #### São Caetano do Sul
-- NetVoice
+- [NetVoice](http://www.netvoice.com.br/)
 
 #### São Paulo
- - [AOC](http://www.aoc.com.br/) 
- - Altran
+ - [AOC](http://www.aoc.com.br/)
+ - ALPHACINE
+ - [Altran](https://www.altran.com/pt/pt-pt/)
  - Assisfit
- - DIMEP
+ - [DIMEP](https://www.dimep.com.br/)
  - Digicrom Analítica Ltda.
- - Digimat
- - Easytech Tecnologia
- - OnBoard Mobility Brasil LTDA
- - Gertec
+ - [Digimat](https://digimat.com.br/)
+ - [Easytech Tecnologia](https://www.easytech.com.br/)
+ - [Expertise Solution](http://www.expertisesolution.com.br/)
+ - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
+ - [Gertec](https://www.gertec.com.br/)
  - GW
- - Globant
- - Indebrás
- - MSX International
+ - [Globant](https://www.globant.com/#home)
+ - [Indebrás](http://www.indebras.com.br/)
+ - [MSX International](https://www.msxi.com/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
- - SETIS AUTOMAÇÃO E SISTEMAS LTDA
- - Technicolor 
- - Telemática Sistemas Inteligentes
- - Trendx
- - Unicoba Energia S.A.
+ - [Sierra Wireless](https://www.sierrawireless.com/)
+ - [SETIS AUTOMAÇÃO E SISTEMAS LTDA](https://setis.com.br/homepage/)
+ - [Technicolor](https://www.technicolor.com/)
+ - [Telemática Sistemas Inteligentes](https://www.telematica.com.br/)
+ - [Trendx](https://trendxbrasil.com/)
+ - [Unicoba Energia S.A.](https://unicoba.com.br/)
  
  
 #### São José dos Campos
@@ -221,7 +234,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - - [LG](https://www.lg.com/br)
 
 #### Valinhos
-- Toradex Brasil 
+- [Elsys](https://www.elsys.com.br/)
+- [Toradex Brasil](https://www.toradex.com/pt-br/)
 
 ### Sergipe<a name="idSE"></a>
 ***
