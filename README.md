@@ -129,7 +129,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - Fortron Tecnologia Agrícola
 
 #### Curitiba
- - Exati Tecnologia
+ - [Exati Tecnologia](https://exati.com.br/)
+ - [Human Robotics](http://www.humanrobotics.io/)
  
 #### Foz do Iguaçú
 - [Parque Tecnologico Itaipú (PTI)](https://www.pti.org.br/)
@@ -154,6 +155,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Canoas
 - [EXATRON](https://www.exatron.com.br/)
 - [Novus](https://www.novus.com.br/site/)
+#### Caxias do Sul
+- [Premium Indústria Eletrônica LTDA](http://www.premiumtecnologia.com.br/)
 ***
 ### Rondônia<a name="idRO"></a>
 ***
@@ -161,6 +164,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
  
 ### Santa Catarina<a name="idSC"></a>
+
+#Blumenau
+- - [ENERSONIC LTDA]()
 #### Criciúma
  - [Sistema Info](https://sistemainfo.com.br/)
 
@@ -180,6 +186,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Honeywell](https://www.honeywell.com/en-us/global/pt-br)
 
 #### Campinas
+- [Agrosmart](https://agrosmart.com.br/)
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
@@ -202,22 +209,32 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### São Caetano do Sul
 - [NetVoice](http://www.netvoice.com.br/)
 
+#### São José dos Campos
+- [Embraer](https://embraer.com/br/pt)
+- [Omega 7 Systems](https://www.omega7systems.com/)
+- [Delta Life](https://www.deltalife.com.br/)
+
 #### São Paulo
  - [ALPHACINE](http://alphacine.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
  - [AOC](http://www.aoc.com.br/)
  - Assisfit
+ - [Blockbit Teccnologia Ltda.](https://www.blockbit.com/pt/)
  - [DIMEP](https://www.dimep.com.br/)
- - Digicrom Analítica Ltda.
+ - [Digicrom Analítica Ltda.](https://www.digimed.ind.br/br/)
  - [Digimat](https://digimat.com.br/)
  - [Easytech Tecnologia](https://www.easytech.com.br/)
  - [Expertise Solution](http://www.expertisesolution.com.br/)
+ - [Externa](http://www.grupoexterna.es/)
+ - [Excel Produtos Eletrônicos LTDA](https://excelbr.com.br/)
  - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
  - [Gertec](https://www.gertec.com.br/)
  - GW
  - [Globant](https://www.globant.com/#home)
  - [Indebrás](http://www.indebras.com.br/)
+ - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
  - [MSX International](https://www.msxi.com/)
+ - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - [Sierra Wireless](https://www.sierrawireless.com/)
  - [SETIS AUTOMAÇÃO E SISTEMAS LTDA](https://setis.com.br/homepage/)
@@ -225,16 +242,12 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Telemática Sistemas Inteligentes](https://www.telematica.com.br/)
  - [Trendx](https://trendxbrasil.com/)
  - [Unicoba Energia S.A.](https://unicoba.com.br/)
- 
- 
-#### São José dos Campos
-- [Embraer](https://embraer.com/br/pt) 
 
 #### Sorocaba
 - [Stattus 4](https://stattus4.com/)
  
 #### Taubaté
-- - [LG](https://www.lg.com/br)
+- [LG](https://www.lg.com/br)
 
 #### Valinhos
 - [Elsys](https://www.elsys.com.br/)
