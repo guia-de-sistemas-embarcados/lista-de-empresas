@@ -203,9 +203,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [NetVoice](http://www.netvoice.com.br/)
 
 #### São Paulo
- - [AOC](http://www.aoc.com.br/)
- - ALPHACINE
+ - [ALPHACINE](http://alphacine.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
+ - [AOC](http://www.aoc.com.br/)
  - Assisfit
  - [DIMEP](https://www.dimep.com.br/)
  - Digicrom Analítica Ltda.
@@ -229,6 +229,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  
 #### São José dos Campos
 - [Embraer](https://embraer.com/br/pt) 
+
+#### Sorocaba
+- [Stattus 4](https://stattus4.com/)
  
 #### Taubaté
 - - [LG](https://www.lg.com/br)
