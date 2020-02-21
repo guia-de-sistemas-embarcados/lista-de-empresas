@@ -236,6 +236,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [ALPHACINE](http://alphacine.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
  - [AOC](http://www.aoc.com.br/)
+ - [Avnet](https://www.avnet.com/wps/portal/us)
  - Assisfit
  - [Blockbit Teccnologia Ltda.](https://www.blockbit.com/pt/)
  - [DIMEP](https://www.dimep.com.br/)
@@ -257,6 +258,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Pasquali Solution](http://www.pasqualisolution.com.br/)
  - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
+ - [Renesas](https://www.renesas.com/br/en/)
  - [Sierra Wireless](https://www.sierrawireless.com/)
  - [SETIS AUTOMAÇÃO E SISTEMAS LTDA](https://setis.com.br/homepage/)
  - [Technicolor](https://www.technicolor.com/)
