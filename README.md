@@ -56,7 +56,13 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 ### Ceará<a name="idCE"></a>
 ***
+### Distrito Federal<a name="idDF"></a>
+#### Brasília
+- [Ewave do Brasil](https://www.ewave.com.br/)
+***
 ### Espírito Santo<a name="idES"></a>
+#### Vitória
+- [Ewave do Brasil](https://www.ewave.com.br/)
 ***
 ### Goiás<a name="idGO"></a>
 ***
@@ -130,11 +136,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Curitiba
  - [Exati Tecnologia](https://exati.com.br/)
+ - [ FiscatelTech](https://www.fiscaltech.com.br/)
  - [Human Robotics](http://www.humanrobotics.io/)
+ - [TopData](https://www.topdata.com.br/)
+
  
 #### Foz do Iguaçú
 - [Parque Tecnologico Itaipú (PTI)](https://www.pti.org.br/)
 
+#### Londrina
+ - [Trimble Inc.](https://www.trimble.com.br/)
 ***
 
 ### Pernambuco<a name="idPE"></a>
@@ -147,6 +158,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Rio de Janeiro<a name="idRJ"></a>
 #### Rio de Janeiro
 - [Rio Analytics](rioanalytics.com.br)
+- [Mirakulo Software Ltda](http://www.tqtvd.com/novo/br/sobre.html)
 
 ***
 ### Rio Grande do Norte<a name="idRN"></a>
@@ -165,7 +177,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  
 ### Santa Catarina<a name="idSC"></a>
 
-#Blumenau
+####Blumenau
 - - [ENERSONIC LTDA]()
 #### Criciúma
  - [Sistema Info](https://sistemainfo.com.br/)
@@ -189,12 +201,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Agrosmart](https://agrosmart.com.br/)
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
+- [DMA Ind. e Tecnologia](http://www.dma.ind.br/)
+- [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
 - [Kryptus](https://www.kryptus.com/)
 - [OneRF Networks](http://www.onerf.com.br/)
 - [Pósitron](https://www.positron.com.br/)
+- [MultiTech](https://www.multittech.com.br/)
+- [Tarvos](https://tarvos.ag/)
 - [Transdata](https://www.itstransdata.com/)
-
+- [uDEV](https://www.udev.com.br/)
 
 #### Diadema
 - TRW Automotive
@@ -207,12 +223,14 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Artebtech](https://www.arteb.com.br/)
  
 #### São Caetano do Sul
+- [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
 
 #### São José dos Campos
+- [Delta Life (Aredes Equipamentos)](https://www.deltalife.com.br/)
 - [Embraer](https://embraer.com/br/pt)
+- [IACIT Soluções Tecnológicas](http://www.iacit.com.br/)
 - [Omega 7 Systems](https://www.omega7systems.com/)
-- [Delta Life](https://www.deltalife.com.br/)
 
 #### São Paulo
  - [ALPHACINE](http://alphacine.com.br/)
@@ -232,8 +250,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - GW
  - [Globant](https://www.globant.com/#home)
  - [Indebrás](http://www.indebras.com.br/)
+ - [Kantar](https://br.kantar.com/)
  - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
+ - [MediaMonks](https://www.mediamonks.com/)
  - [MSX International](https://www.msxi.com/)
+ - [Pasquali Solution](http://www.pasqualisolution.com.br/)
  - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - [Sierra Wireless](https://www.sierrawireless.com/)
