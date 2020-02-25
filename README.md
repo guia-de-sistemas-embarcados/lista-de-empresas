@@ -176,15 +176,19 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
  
 ### Santa Catarina<a name="idSC"></a>
+#### Blumenau
+- [ENERSONIC LTDA]()
 
-####Blumenau
-- - [ENERSONIC LTDA]()
 #### Criciúma
  - [Sistema Info](https://sistemainfo.com.br/)
 
 #### Florianópolis
 - [Intelbras](www.intelbras.com.br)
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
+
+#### Jaraguá do Sul
+- [WEG](https://www.weg.net/institutional/BR/pt/)
+
 
 ***
  
