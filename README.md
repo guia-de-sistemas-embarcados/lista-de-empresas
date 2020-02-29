@@ -49,6 +49,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Manaus
 - [AOC](http://www.aoc.com.br/) 
 - [Samsung](https://www.samsung.com/br/)
+- [Sidia](http://www.sidia.com/)
 
 ***
 
