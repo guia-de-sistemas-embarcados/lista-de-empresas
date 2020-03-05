@@ -226,6 +226,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
+- [Gemalto](https://www.gemalto.com/brasil)
  
 #### São Caetano do Sul
 - [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
