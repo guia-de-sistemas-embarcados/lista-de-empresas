@@ -93,10 +93,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Sitrack](sitrack.com)
  - [Strider](https://strider.ag/)
  - [Tacom](http://www.tacom.com.br/)
- 
+
 #### Betim
  - [MSX Internacional](www.msxi.com)
- 
+
 
 #### Santa Rita do Sapucaí
  - [CCN Telecom](https://ccntelecom.com.br/)
@@ -117,7 +117,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Senai CDTSVE Stefan Bogdan Salej](https://www7.fiemg.com.br/regionais/sul/unidade/senai-santa-rita-do-sapucai-cdtsve-stefan-bogdan-salej)
  - [Sense](www.sense.com.br) 
  - [Volt](http://volt.ind.br/)
- 
+
 #### Varginha
  - [Philips](https://www.philips.com.br/healthcare/resources/landing/varginha)
  - [Signify (Philips Light)](https://www.signify.com/pt-br)
@@ -140,7 +140,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Human Robotics](http://www.humanrobotics.io/)
  - [TopData](https://www.topdata.com.br/)
 
- 
+
 #### Foz do Iguaçú
 - [Parque Tecnologico Itaipú (PTI)](https://www.pti.org.br/)
 
@@ -174,11 +174,13 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 ### Roraima<a name="idRR"></a>
 ***
- 
+
 ### Santa Catarina<a name="idSC"></a>
 
-####Blumenau
-- - [ENERSONIC LTDA]()
+#### Blumenau
+
+- [ENERSONIC LTDA]()
+- [TekSea](https://teksea.net/)
 #### Criciúma
  - [Sistema Info](https://sistemainfo.com.br/)
 
@@ -187,7 +189,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
 
 ***
- 
+
 ### São Paulo<a name="idSP"></a>
 
 #### Atibaia
@@ -215,13 +217,17 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Diadema
 - TRW Automotive
 
+#### Hortolândia
+
+- [Altran](https://altran.com.br/)
+
 #### Osasco
  - [ABC Drives](http://www.abcdrives.com.br/)
  - [Sem Parar](https://www.semparar.com.br/)
 
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
- 
+
 #### São Caetano do Sul
 - [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
@@ -268,7 +274,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Sorocaba
 - [Stattus 4](https://stattus4.com/)
- 
+
 #### Taubaté
 - [LG](https://www.lg.com/br)
 
