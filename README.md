@@ -49,6 +49,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Manaus
 - [AOC](http://www.aoc.com.br/) 
 - [Samsung](https://www.samsung.com/br/)
+- [Sidia](http://www.sidia.com/)
 
 ***
 
@@ -178,15 +179,19 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Santa Catarina<a name="idSC"></a>
 
 #### Blumenau
-
 - [ENERSONIC LTDA]()
 - [TekSea](https://teksea.net/)
+
 #### Criciúma
  - [Sistema Info](https://sistemainfo.com.br/)
 
 #### Florianópolis
 - [Intelbras](www.intelbras.com.br)
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
+
+#### Jaraguá do Sul
+- [WEG](https://www.weg.net/institutional/BR/pt/)
+
 
 ***
 
@@ -203,6 +208,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Agrosmart](https://agrosmart.com.br/)
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
+- [CNPEM](http://cnpem.br/)
 - [DMA Ind. e Tecnologia](http://www.dma.ind.br/)
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
@@ -213,6 +219,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Tarvos](https://tarvos.ag/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
+
 
 #### Diadema
 - TRW Automotive
@@ -227,7 +234,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
-
+- [Gemalto](https://www.gemalto.com/brasil)
+ 
 #### São Caetano do Sul
 - [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
