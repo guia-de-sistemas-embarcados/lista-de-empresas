@@ -96,6 +96,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Tacom](http://www.tacom.com.br/)
 
 #### Betim
+ - [Altran](https://altran.com.br/)
  - [MSX Internacional](www.msxi.com)
 
 
@@ -192,7 +193,6 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Jaraguá do Sul
 - [WEG](https://www.weg.net/institutional/BR/pt/)
 
-
 ***
 
 ### São Paulo<a name="idSP"></a>
@@ -235,7 +235,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
 - [Gemalto](https://www.gemalto.com/brasil)
- 
+
 #### São Caetano do Sul
 - [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
