@@ -56,6 +56,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Bahia<a name="idBA"></a>
 ***
 ### Ceará<a name="idCE"></a>
+
+#### Eusébio
+
+- [ELETRA INDUSTRIA E COMERCIO DE MEDIDORES ELETRICOS](http://www.eletraenergy.com/br/)
+
 ***
 ### Distrito Federal<a name="idDF"></a>
 #### Brasília
@@ -64,6 +69,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Espírito Santo<a name="idES"></a>
 #### Vitória
 - [Ewave do Brasil](https://www.ewave.com.br/)
+- [Iddtek](http://iddtek.com/)
 ***
 ### Goiás<a name="idGO"></a>
 ***
@@ -151,6 +157,13 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 
 ### Pernambuco<a name="idPE"></a>
+
+#### Goiana
+
+- [Fiat Chrysler Automobiles](https://www.fiat.com.br/institucional/trabalhe_conosco.html)
+
+#### Recife
+
 - [Cesar](https://www.cesar.org.br/)
 
 ***
@@ -159,8 +172,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 ### Rio de Janeiro<a name="idRJ"></a>
 #### Rio de Janeiro
-- [Rio Analytics](rioanalytics.com.br)
 - [Mirakulo Software Ltda](http://www.tqtvd.com/novo/br/sobre.html)
+- [Halliburton](https://www.halliburton.com/)
+- [Rio Analytics](rioanalytics.com.br)
 
 ***
 ### Rio Grande do Norte<a name="idRN"></a>
@@ -189,9 +203,14 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Florianópolis
 - [Intelbras](www.intelbras.com.br)
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
+- [SCC4](https://www.scc4.com.br/)
 
 #### Jaraguá do Sul
 - [WEG](https://www.weg.net/institutional/BR/pt/)
+
+#### Palhoça
+
+- [Ageon](https://www.ageon.com.br/)
 
 ***
 
@@ -249,6 +268,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### São Paulo
  - [ALPHACINE](http://alphacine.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
+ - [Angoera Sistemas Eletrônicos Ltda.](https://angoera.com.br/)
  - [AOC](http://www.aoc.com.br/)
  - [Avnet](https://www.avnet.com/wps/portal/us)
  - Assisfit
