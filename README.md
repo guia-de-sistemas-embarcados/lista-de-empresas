@@ -232,20 +232,28 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
 - [Kryptus](https://www.kryptus.com/)
-- [OneRF Networks](http://www.onerf.com.br/)
-- [Pósitron](https://www.positron.com.br/)
 - [MultiTech](https://www.multittech.com.br/)
+- [OneRF Networks](http://www.onerf.com.br/)
+- [Pósitron - Stoneridge](https://www.positron.com.br/)
+- [Stoneridge](https://www.stoneridge.com/careers/)
 - [Tarvos](https://tarvos.ag/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
 
-
 #### Diadema
 - TRW Automotive
 
-#### Hortolândia
+#### Guarulhos
+- [Continental](https://www.conti.com.br/)
 
+#### Hortolândia
 - [Altran](https://altran.com.br/)
+
+#### Itupeva
+- [Cliptech](http://cliptech.com.br/)
+
+#### Mogi Guaçu
+- [Phi Innovations](http://www.phiinnovations.com/)
 
 #### Osasco
  - [ABC Drives](http://www.abcdrives.com.br/)
@@ -253,10 +261,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
+- [EDAG do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [Gemalto](https://www.gemalto.com/brasil)
+- [KOSTAL](https://kostalbrasil.com.br/)
 
 #### São Caetano do Sul
-- [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
 
 #### São José dos Campos
@@ -301,6 +310,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Unicoba Energia S.A.](https://unicoba.com.br/)
 
 #### Sorocaba
+- [Flash Engenharia](https://www.flashengenharia.com.br/)
 - [Stattus 4](https://stattus4.com/)
 
 #### Taubaté
@@ -309,6 +319,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Valinhos
 - [Elsys](https://www.elsys.com.br/)
 - [Toradex Brasil](https://www.toradex.com/pt-br/)
+
+#### Vinhedo
+- [Nidec (ex-Omron Automotive)](https://www.nidec.com/en/nidec-mobility/corporate/network/factory/nidec-mobility-brazil)
 
 ### Sergipe<a name="idSE"></a>
 ***
