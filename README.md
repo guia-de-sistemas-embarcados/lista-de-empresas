@@ -48,7 +48,6 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Manaus
 - [AOC](http://www.aoc.com.br/) 
-- [Samsung](https://www.samsung.com/br/)
 - [Sidia](http://www.sidia.com/)
 
 ***
@@ -236,6 +235,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [OneRF Networks](http://www.onerf.com.br/)
 - [Pósitron - Stoneridge](https://www.positron.com.br/)
 - [Stoneridge](https://www.stoneridge.com/careers/)
+- [Samsung](https://www.samsung.com/br/)
 - [Tarvos](https://tarvos.ag/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
@@ -256,8 +256,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Phi Innovations](http://www.phiinnovations.com/)
 
 #### Osasco
- - [ABC Drives](http://www.abcdrives.com.br/)
- - [Sem Parar](https://www.semparar.com.br/)
+- [ABC Drives](http://www.abcdrives.com.br/)
+- [Sem Parar](https://www.semparar.com.br/)
+ 
+#### Pompéia
+- [Jacto](https://www.jacto.com)
 
 #### São Bernardo do Campo
 - [Artebtech](https://www.arteb.com.br/)
