@@ -180,7 +180,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Curitiba
 
  - [Exati Tecnologia](https://exati.com.br/)
- - [ FiscatelTech](https://www.fiscaltech.com.br/)
+ - [FiscatelTech](https://www.fiscaltech.com.br/)
  - [Human Robotics](http://www.humanrobotics.io/)
  - [TopData](https://www.topdata.com.br/)
 
@@ -314,6 +314,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Guarulhos
 - [Continental](https://www.conti.com.br/)
 
+#### Garça
+- [Garen - Automação de Portões](https://www.garen.com.br/)
+- [PPA - Conforto com Segurança](https://www.ppa.com.br/)
+
 #### Hortolândia
 - [Altran](https://altran.com.br/)
 
@@ -336,6 +340,8 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [EDAG do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [Gemalto](https://www.gemalto.com/brasil)
 - [KOSTAL](https://kostalbrasil.com.br/)
+- [Quantum Group](http://www.quantumgroup.com.br/institucional.php)
+- [Tury do Brasil](https://www.tury.com.br/site/index.php)
 
 #### São Caetano do Sul
 - [NetVoice](http://www.netvoice.com.br/)
@@ -353,39 +359,53 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Altran](https://www.altran.com/pt/pt-pt/)
  - [Angoera Sistemas Eletrônicos Ltda.](https://angoera.com.br/)
  - [AOC](http://www.aoc.com.br/)
+ - [Arrow Brasil](https://www.arrow.com/)
  - [Avnet](https://www.avnet.com/wps/portal/us)
  - Assisfit
  - [Blockbit Teccnologia Ltda.](https://www.blockbit.com/pt/)
  - [CM Comandos Lineares](https://www.cmcomandos.com.br/)
+ - [Condor Instruments](https://www.condorinst.com.br/)
  - [DIMEP](https://www.dimep.com.br/)
  - [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/)
  - [Digicrom Analítica Ltda.](https://www.digimed.ind.br/br/)
  - [Digimat](https://digimat.com.br/)
  - [Easytech Tecnologia](https://www.easytech.com.br/)
+ - [Enablers](https://enablers.com.br/)
  - [Expertise Solution](http://www.expertisesolution.com.br/)
  - [Externa](http://www.grupoexterna.es/)
  - [Excel Produtos Eletrônicos LTDA](https://excelbr.com.br/)
- - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
+ - [FIP](http://www.fip.com.br/2011/index.asp)
+ - [Future Electronics](https://www.futureelectronics.com/)
  - [Gertec](https://www.gertec.com.br/)
  - GW
  - [Globant](https://www.globant.com/#home)
  - [Indebrás](http://www.indebras.com.br/)
+ - [Infolev](http://www.infolev.com.br/)
+ - [Itech](https://grupoitech.com.br/)
+ - [J.G MORIYA](http://jgmoriya.com.br/)
  - [Kantar](https://br.kantar.com/)
  - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
+ - [Magnamed](https://www.inovacoesmagnamed.com.br/)
  - [MediaMonks](https://www.mediamonks.com/)
  - [MSX International](https://www.msxi.com/)
  - [NCR](https://www.ncr.com/)
+ - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
  - [Pasquali Solution](http://www.pasqualisolution.com.br/)
+ - [Pextron Controles Eletrônicos](https://www.pextron.com/)
  - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - [Renesas](https://www.renesas.com/br/en/)
  - [Sierra Wireless](https://www.sierrawireless.com/)
  - [SETIS AUTOMAÇÃO E SISTEMAS LTDA](https://setis.com.br/homepage/)
  - [TecBan](https://tecban.com.br/)
+ - [ST Microeletronics](https://www.st.com/content/st_com/en.html)
+ - [TCT Brasil](http://www.tctbrasil.com.br/)
  - [Technicolor](https://www.technicolor.com/)
  - [Telemática Sistemas Inteligentes](https://www.telematica.com.br/)
  - [Trendx](https://trendxbrasil.com/)
+ - [Trilobit](http://br.trilobit.com.br/)
  - [Unicoba Energia S.A.](https://unicoba.com.br/)
+ - [Vagon](https://vagon.com.br/)
 
 #### Sorocaba
 - [Flash Engenharia](https://www.flashengenharia.com.br/)
