@@ -1,16 +1,18 @@
 ## Brasil
+
 Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 **Índice**   
-01. [Acre](#idAC)
-02. [Alagoas](#idAL)
-03. [Amapá](#idAP)
-04. [Amazonas](#idAM)
-05. [Bahia](#idBA)
-06. [Ceará](#idCE)
-07. [Espírito Santo](#idES)
-08. [Goiás](#idGO)
-09. [Maranhão](#idMA)
+
+1. [Acre](#idAC)
+2. [Alagoas](#idAL)
+3. [Amapá](#idAP)
+4. [Amazonas](#idAM)
+5. [Bahia](#idBA)
+6. [Ceará](#idCE)
+7. [Espírito Santo](#idES)
+8. [Goiás](#idGO)
+9. [Maranhão](#idMA)
 10. [Mato Grosso](#idMT)
 11. [Mato Grosso do Sul](#idMS)
 12. [Minas Gerais](#idMG)
@@ -47,6 +49,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Amazonas<a name="idAM"></a>
 
 #### Manaus
+
 - [AOC](http://www.aoc.com.br/) 
 - [Samsung](https://www.samsung.com/br/)
 - [Sidia](http://www.sidia.com/)
@@ -54,7 +57,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 
 ### Bahia<a name="idBA"></a>
+
 ***
+
 ### Ceará<a name="idCE"></a>
 
 #### Eusébio
@@ -62,27 +67,44 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [ELETRA INDUSTRIA E COMERCIO DE MEDIDORES ELETRICOS](http://www.eletraenergy.com/br/)
 
 ***
+
 ### Distrito Federal<a name="idDF"></a>
+
 #### Brasília
+
 - [Ewave do Brasil](https://www.ewave.com.br/)
+
 ***
+
 ### Espírito Santo<a name="idES"></a>
+
 #### Vitória
+
 - [Ewave do Brasil](https://www.ewave.com.br/)
 - [Iddtek](http://iddtek.com/)
+
 ***
+
 ### Goiás<a name="idGO"></a>
+
 ***
+
 ### Maranhão<a name="idMA"></a>
+
 ***
+
 ### Mato Grosso<a name="idMT"></a>
+
 ***
+
 ### Mato Grosso do Sul<a name="idMS"></a>
+
 ***
 
 ### Minas Gerais<a name="idMG"></a>
 
 #### Belo Horizonte
+
  - [Bysat](http://site.bysat.com.br/)
  - [Devex/Hexagon](hexagon.com.br)
  - [Engetron](https://www.engetron.com.br/)
@@ -102,11 +124,13 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Tacom](http://www.tacom.com.br/)
 
 #### Betim
+
  - [Altran](https://altran.com.br/)
  - [MSX Internacional](www.msxi.com)
 
 
 #### Santa Rita do Sapucaí
+
  - [CCN Telecom](https://ccntelecom.com.br/)
  - [Exsto](www.exsto.com.br)
  - [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/)
@@ -127,22 +151,28 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Volt](http://volt.ind.br/)
 
 #### Varginha
+
  - [Philips](https://www.philips.com.br/healthcare/resources/landing/varginha)
  - [Signify (Philips Light)](https://www.signify.com/pt-br)
 
 ***
 
 ### Pará<a name="idPA"></a>
+
 ***
+
 ### Paraíba<a name="idPB"></a>
+
 ***
 
 ### Paraná<a name="idPR"></a>
 
 #### Campo Mourão
+
 - Fortron Tecnologia Agrícola
 
 #### Curitiba
+
  - [Exati Tecnologia](https://exati.com.br/)
  - [ FiscatelTech](https://www.fiscaltech.com.br/)
  - [Human Robotics](http://www.humanrobotics.io/)
@@ -150,10 +180,17 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 
 #### Foz do Iguaçú
+
 - [Parque Tecnologico Itaipú (PTI)](https://www.pti.org.br/)
 
 #### Londrina
+
  - [Trimble Inc.](https://www.trimble.com.br/)
+
+#### Pinhais
+
+ - [Henry](https://www.henry.com.br/)
+
 ***
 
 ### Pernambuco<a name="idPE"></a>
@@ -169,43 +206,63 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ***
 
 ### Piauí<a name="idPI"></a>
+
 ***
+
 ### Rio de Janeiro<a name="idRJ"></a>
+
 #### Rio de Janeiro
+
 - [Mirakulo Software Ltda](http://www.tqtvd.com/novo/br/sobre.html)
 - [Halliburton](https://www.halliburton.com/)
 - [Rio Analytics](rioanalytics.com.br)
 
 ***
+
 ### Rio Grande do Norte<a name="idRN"></a>
+
 ***
+
 ### Rio Grande do Sul<a name="idRS"></a>
+
 #### Canoas
+
 - [EXATRON](https://www.exatron.com.br/)
 - [Novus](https://www.novus.com.br/site/)
+
 #### Caxias do Sul
+
 - [Premium Indústria Eletrônica LTDA](http://www.premiumtecnologia.com.br/)
+
 ***
+
 ### Rondônia<a name="idRO"></a>
+
 ***
+
 ### Roraima<a name="idRR"></a>
+
 ***
 
 ### Santa Catarina<a name="idSC"></a>
 
 #### Blumenau
+
 - [ENERSONIC LTDA]()
 - [TekSea](https://teksea.net/)
 
 #### Criciúma
+
  - [Sistema Info](https://sistemainfo.com.br/)
 
 #### Florianópolis
+
 - [Intelbras](www.intelbras.com.br)
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
 - [SCC4](https://www.scc4.com.br/)
 
 #### Jaraguá do Sul
+
 - [WEG](https://www.weg.net/institutional/BR/pt/)
 
 #### Palhoça
@@ -217,13 +274,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### São Paulo<a name="idSP"></a>
 
 #### Atibaia
+
 - [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
 
 #### Barueri
+
 - [Omnilink](www.omnilink.com.br)
 - [Honeywell](https://www.honeywell.com/en-us/global/pt-br)
 
 #### Campinas
+
 - [Agrosmart](https://agrosmart.com.br/)
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
@@ -241,6 +301,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 
 #### Diadema
+
 - TRW Automotive
 
 #### Hortolândia
@@ -248,24 +309,29 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Altran](https://altran.com.br/)
 
 #### Osasco
+
  - [ABC Drives](http://www.abcdrives.com.br/)
  - [Sem Parar](https://www.semparar.com.br/)
 
 #### São Bernardo do Campo
+
 - [Artebtech](https://www.arteb.com.br/)
 - [Gemalto](https://www.gemalto.com/brasil)
 
 #### São Caetano do Sul
+
 - [Edag do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [NetVoice](http://www.netvoice.com.br/)
 
 #### São José dos Campos
+
 - [Delta Life (Aredes Equipamentos)](https://www.deltalife.com.br/)
 - [Embraer](https://embraer.com/br/pt)
 - [IACIT Soluções Tecnológicas](http://www.iacit.com.br/)
 - [Omega 7 Systems](https://www.omega7systems.com/)
 
 #### São Paulo
+
  - [ALPHACINE](http://alphacine.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
  - [Angoera Sistemas Eletrônicos Ltda.](https://angoera.com.br/)
@@ -273,6 +339,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Avnet](https://www.avnet.com/wps/portal/us)
  - Assisfit
  - [Blockbit Teccnologia Ltda.](https://www.blockbit.com/pt/)
+ - [CM Comandos Lineares](https://www.cmcomandos.com.br/)
  - [DIMEP](https://www.dimep.com.br/)
  - [Digicrom Analítica Ltda.](https://www.digimed.ind.br/br/)
  - [Digimat](https://digimat.com.br/)
@@ -301,17 +368,24 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Unicoba Energia S.A.](https://unicoba.com.br/)
 
 #### Sorocaba
+
 - [Stattus 4](https://stattus4.com/)
 
 #### Taubaté
+
 - [LG](https://www.lg.com/br)
 
 #### Valinhos
+
 - [Elsys](https://www.elsys.com.br/)
 - [Toradex Brasil](https://www.toradex.com/pt-br/)
 
 ### Sergipe<a name="idSE"></a>
+
 ***
+
 ### Tocantins<a name="idTO"></a>
+
 ***
+
 ### Distrito Federal<a name="idDF"></a>
