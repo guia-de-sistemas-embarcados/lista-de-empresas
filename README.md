@@ -51,6 +51,13 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Manaus
 
 - [AOC](http://www.aoc.com.br/) 
+- [CITS](https://www.cits.br/)
+- [Fundação Paulo Feitosa](fpftech.com)
+- [Grupo ICTS](http://www.grupoicts.com.br/)
+- [iotech Automação](https://www.iotechautomacao.com.br/)
+- [Instituto Eldorado](https://www.eldorado.org.br/)
+- [itriad](https://www.itriad.org.br/)
+- [Samsung](https://www.samsung.com/br/)
 - [Sidia](http://www.sidia.com/)
 
 ***
