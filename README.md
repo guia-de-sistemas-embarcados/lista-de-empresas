@@ -136,15 +136,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 
 #### Santa Rita do Sapucaí
-
+ - [ATIVA Soluções Tecnológicas](https://www.ativasolucoes.com.br)
+ - [Biquad Broadcast](https://biquadbroadcast.com/)
  - [CCN Telecom](https://ccntelecom.com.br/)
  - [Exsto](www.exsto.com.br)
  - [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/)
- - [Inatel ICC](https://www.inatel.br/icc/)
+ - [Inatel Competence Center](https://www.inatel.br/icc/)
  - [Intelbras](www.intelbras.com.br)
  - [Intelliges](www.intelliges.com.br)
  - [JFL Alarmes](www.jfl.com.br)
- - [Kva](www.kva.com.br)
+ - [KVA](www.kva.com.br)
  - [Leucotron](www.leucotron.com.br)
  - [Lider](https://www.lidermg.com.br/) 
  - [Nice](www.nice.com.br)
@@ -153,7 +154,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [RWTECH](www.rwtech.com.br)
  - [Sanders](https://sandersdobrasil.com.br/)
  - [Senai CDTSVE Stefan Bogdan Salej](https://www7.fiemg.com.br/regionais/sul/unidade/senai-santa-rita-do-sapucai-cdtsve-stefan-bogdan-salej)
- - [Sense](www.sense.com.br) 
+ - [Sense](www.sense.com.br)
+ - [Think Technology](http://www.tkth.com.br)
+ - [TSDA](https://www.tsda.com.br/)
+ - [Teletronix](https://teletronix.com.br/)
  - [Volt](http://volt.ind.br/)
 
 #### Varginha
