@@ -238,6 +238,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Tarvos](https://tarvos.ag/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
+- [V2COM](https://v2com.com/)
 
 
 #### Diadema
