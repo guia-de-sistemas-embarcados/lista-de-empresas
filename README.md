@@ -339,6 +339,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Pompéia
 - [Jacto](https://www.jacto.com)
 
+#### Santo André
+
+- [DGM Eletrônica](https://www.dgmeletronica.com.br/)
+
 #### São Bernardo do Campo
 
 - [Artebtech](https://www.arteb.com.br/)
