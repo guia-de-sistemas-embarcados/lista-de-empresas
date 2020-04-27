@@ -312,6 +312,14 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [uDEV](https://www.udev.com.br/)
 - [V2COM](https://v2com.com/)
 
+#### Carapicuíba
+
+- [Driller](https://driller.com.br/)
+
+#### Cotia
+
+- [CNZ Engenharia Eletrônica](http://www.cnz.com.br/)
+
 #### Diadema
 
 - TRW Automotive
