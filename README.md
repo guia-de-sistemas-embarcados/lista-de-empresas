@@ -323,6 +323,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Diadema
 
 - TRW Automotive
+- [Quimis Aparelhos Científicos](http://www.quimis.com.br/)
 
 #### Guarulhos
 - [Continental](https://www.conti.com.br/)
@@ -400,6 +401,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Infolev](http://www.infolev.com.br/)
  - [Itech](https://grupoitech.com.br/)
  - [J.G MORIYA](http://jgmoriya.com.br/)
+ - [Jofen](http://jofen.com.br/)
  - [Kantar](https://br.kantar.com/)
  - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
  - [Magnamed](https://www.inovacoesmagnamed.com.br/)
@@ -409,6 +411,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
  - [Pasquali Solution](http://www.pasqualisolution.com.br/)
  - [Pextron Controles Eletrônicos](https://www.pextron.com/)
+ - [Prodata Mobility Brasil](http://www.prodatamobility.com.br/)
  - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - [Renesas](https://www.renesas.com/br/en/)
