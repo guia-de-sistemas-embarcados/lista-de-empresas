@@ -304,13 +304,20 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Kryptus](https://www.kryptus.com/)
 - [MultiTech](https://www.multittech.com.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
+- [Padtec](https://www.padtec.com.br/)
+- [Planeta Informática](http://www.planeta.inf.br/)
 - [Pósitron - Stoneridge](https://www.positron.com.br/)
+- [Profusion](https://profusion.mobi/)
+- [Start Lighting Division](https://www.star.ind.br/site/pt/)
 - [Stoneridge](https://www.stoneridge.com/careers/)
 - [Samsung](https://www.samsung.com/br/)
 - [Tarvos](https://tarvos.ag/)
+- [Tesybras](http://tesybras.com.br/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
 - [V2COM](https://v2com.com/)
+- [Vital Tech](https://vitaltech.com.br/)
+- [Von Braun Labs](https://www.vonbraunlabs.com.br/)
 
 #### Carapicuíba
 
