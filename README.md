@@ -299,6 +299,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [CI&T](https://br.ciandt.com/)
 - [CNPEM](http://cnpem.br/)
 - [DMA Ind. e Tecnologia](http://www.dma.ind.br/)
+- [Hensys](https://www.hensys.com.br/)
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
 - [Kryptus](https://www.kryptus.com/)
