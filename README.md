@@ -52,7 +52,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 - [AOC](http://www.aoc.com.br/) 
 - [CITS](https://www.cits.br/)
-- [Fundação Paulo Feitosa](fpftech.com)
+- [Fundação Paulo Feitosa](https://fpftech.com/)
 - [Grupo ICTS](http://www.grupoicts.com.br/)
 - [iotech Automação](https://www.iotechautomacao.com.br/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
@@ -112,10 +112,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Belo Horizonte
 
  - [Bysat](http://site.bysat.com.br/)
- - [Devex/Hexagon](hexagon.com.br)
+ - [Devex/Hexagon](https://hexagon.com.br/)
  - [Engetron](https://www.engetron.com.br/)
  - [Empresa1](https://www.empresa1.com.br/)
- - [HTP](www.htp.com.br)
+ - [HTP](http://www.htp.com.br/)
  - [LogPyx](https://www.logpyx.com/)
  - [Maxtrack](https://maxtrack.com.br/)
  - [Metrum](https://memt.com.br)
@@ -125,14 +125,14 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [PolSec](http://polsec.com.br/)
  - [Sascar Contagem](https://www.sascar.com.br/)
  - [Seva](http://www.seva.com.br/)
- - [Sitrack](sitrack.com)
+ - [Sitrack](https:/sitrack.com/)
  - [Strider](https://strider.ag/)
  - [Tacom](http://www.tacom.com.br/)
 
 #### Betim
 
  - [Altran](https://altran.com.br/)
- - [MSX Internacional](www.msxi.com)
+ - [MSX Internacional](https://www.msxi.com/)
 
 
 #### Santa Rita do Sapucaí
@@ -143,20 +143,20 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Exsto](www.exsto.com.br)
  - [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/)
  - [Inatel Competence Center](https://www.inatel.br/icc/)
- - [Intelbras](www.intelbras.com.br)
- - [Intelliges](www.intelliges.com.br)
- - [JFL Alarmes](www.jfl.com.br)
- - [KVA](www.kva.com.br)
- - [Leucotron](www.leucotron.com.br)
+ - [Intelbras](https://www.intelbras.com.br/)
+ - [Intelliges](https://www.intelliges.com.br/)
+ - [JFL Alarmes](https://www.jfl.com.br/)
+ - [KVA](https://www.kva.com.br/)
+ - [Leucotron](https://www.leucotron.com.br/)
  - [Lider](https://www.lidermg.com.br/) 
  - [Lumenx](https://lumenx.com.br/)
  - [Nice](www.nice.com.br)
  - [PD Soluções](www.pdsolucoes.com.br)
  - [Pixel TI](http://www.pixelti.com.br/)
- - [RWTECH](www.rwtech.com.br)
+ - [RWTECH](https://www.rwtech.com.br/)
  - [Sanders](https://sandersdobrasil.com.br/)
  - [Senai CDTSVE Stefan Bogdan Salej](https://www7.fiemg.com.br/regionais/sul/unidade/senai-santa-rita-do-sapucai-cdtsve-stefan-bogdan-salej)
- - [Sense](www.sense.com.br)
+ - [Sense](https://www.sense.com.br/)
  - [Think Technology](http://www.tkth.com.br)
  - [TSDA](https://www.tsda.com.br/)
  - [Teletronix](https://teletronix.com.br/)
@@ -227,11 +227,15 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 - [Mirakulo Software Ltda](http://www.tqtvd.com/novo/br/sobre.html)
 - [Halliburton](https://www.halliburton.com/)
-- [Rio Analytics](rioanalytics.com.br)
+- [Rio Analytics](https://rioanalytics.com.br/)
 
 ***
 
 ### Rio Grande do Norte<a name="idRN"></a>
+
+#### Guamaré
+
+- [Valle Soluções](http://www.vallesolucoes.com/)
 
 ***
 
@@ -269,7 +273,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Florianópolis
 
-- [Intelbras](www.intelbras.com.br)
+- [Intelbras](https://www.intelbras.com.br/)
 - [Rossetti Equipamentos Rodoviários](http://www.rossetti.com.br/)
 - [SCC4](https://www.scc4.com.br/)
 
@@ -295,7 +299,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Barueri
 
-- [Omnilink](www.omnilink.com.br)
+- [Omnilink](https://www.omnilink.com.br/)
 - [Honeywell](https://www.honeywell.com/en-us/global/pt-br)
 
 #### Campinas
@@ -359,12 +363,18 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Mogi Guaçu
 - [Phi Innovations](http://www.phiinnovations.com/)
 
+#### Nova Odessa
+- [Metroval](https://metroval.com.br/)
+
 #### Osasco
 - [ABC Drives](http://www.abcdrives.com.br/)
 - [Sem Parar](https://www.semparar.com.br/)
 
 #### Pompéia
 - [Jacto](https://www.jacto.com)
+
+#### Santa Bárbara d'Oeste
+- [Balmak](http://balmak.com.br/)
 
 #### Santo André
 
@@ -406,6 +416,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [CM Comandos Lineares](https://www.cmcomandos.com.br/)
  - [Comm Solutions](https://www.commsl.com.br/)
  - [Condor Instruments](https://www.condorinst.com.br/)
+ - [Desh Tecnologia](http://www.deshtec.com.br/)
  - [DIMEP](https://www.dimep.com.br/)
  - [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/)
  - [Digicrom Analítica Ltda.](https://www.digimed.ind.br/br/)
