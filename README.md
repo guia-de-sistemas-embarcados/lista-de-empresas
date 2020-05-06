@@ -139,6 +139,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [ATIVA Soluções Tecnológicas](https://www.ativasolucoes.com.br)
  - [Biquad Broadcast](https://biquadbroadcast.com/)
  - [CCN Telecom](https://ccntelecom.com.br/)
+ - [Dometek](http://www.dometek.com.br/)
  - [Exsto](www.exsto.com.br)
  - [Hitachi Kokusai Linear](https://www.hitachi-linear.com.br/)
  - [Inatel Competence Center](https://www.inatel.br/icc/)
@@ -148,6 +149,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [KVA](www.kva.com.br)
  - [Leucotron](www.leucotron.com.br)
  - [Lider](https://www.lidermg.com.br/) 
+ - [Lumenx](https://lumenx.com.br/)
  - [Nice](www.nice.com.br)
  - [PD Soluções](www.pdsolucoes.com.br)
  - [Pixel TI](http://www.pixelti.com.br/)
@@ -302,6 +304,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
 - [Kryptus](https://www.kryptus.com/)
+- [Mecatron](https://www.mecatron.org.br/)
 - [MultiTech](https://www.multittech.com.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
 - [Pósitron - Stoneridge](https://www.positron.com.br/)
@@ -334,7 +337,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Osasco
 - [ABC Drives](http://www.abcdrives.com.br/)
 - [Sem Parar](https://www.semparar.com.br/)
- 
+
 #### Pompéia
 - [Jacto](https://www.jacto.com)
 
