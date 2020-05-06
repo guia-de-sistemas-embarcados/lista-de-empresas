@@ -306,6 +306,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Hensys](https://www.hensys.com.br/)
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
+- [Kasco Pesquisa e Desenvolvimento](https://www.kascosys.com.br/)
 - [Kryptus](https://www.kryptus.com/)
 - [MultiTech](https://www.multittech.com.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
