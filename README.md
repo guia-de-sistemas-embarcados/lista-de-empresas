@@ -10,27 +10,27 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 4. [Amazonas](#idAM)
 5. [Bahia](#idBA)
 6. [Ceará](#idCE)
-7. [Espírito Santo](#idES)
-8. [Goiás](#idGO)
-9. [Maranhão](#idMA)
-10. [Mato Grosso](#idMT)
-11. [Mato Grosso do Sul](#idMS)
-12. [Minas Gerais](#idMG)
-13. [Pará](#idPA)
-14. [Paraíba](#idPB)
-15. [Paraná](#idPR)
-16. [Pernambuco](#idPE)
-17. [Piauí](#idPI)
-18. [Rio de Janeiro](#idRJ)
-19. [Rio Grande do Norte](#idRN)
-20. [Rio Grande do Sul](#idRS)
-21. [Rondônia](#idRO)
-22. [Roraima](#idRR)
-23. [Santa Catarina](#idSC)
-24. [São Paulo](#idSP)
-25. [Sergipe](#idSE)
-26. [Tocantins](#idTO)
-27. [Distrito Federal](#idDF)
+7. [Distrito Federal](#idDF)
+8. [Espírito Santo](#idES)
+9. [Goiás](#idGO)
+10. [Maranhão](#idMA)
+11. [Mato Grosso](#idMT)
+12. [Mato Grosso do Sul](#idMS)
+13. [Minas Gerais](#idMG)
+14. [Pará](#idPA)
+15. [Paraíba](#idPB)
+16. [Paraná](#idPR)
+17. [Pernambuco](#idPE)
+18. [Piauí](#idPI)
+19. [Rio de Janeiro](#idRJ)
+20. [Rio Grande do Norte](#idRN)
+21. [Rio Grande do Sul](#idRS)
+22. [Rondônia](#idRO)
+23. [Roraima](#idRR)
+24. [Santa Catarina](#idSC)
+25. [São Paulo](#idSP)
+26. [Sergipe](#idSE)
+27. [Tocantins](#idTO)
 
 ***
 
@@ -285,6 +285,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### São Paulo<a name="idSP"></a>
 
+#### Americana
+
+- [Biosensor](http://www.biosensor.com.br/)
+
 #### Atibaia
 
 - [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
@@ -301,22 +305,41 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [CI&T](https://br.ciandt.com/)
 - [CNPEM](http://cnpem.br/)
 - [DMA Ind. e Tecnologia](http://www.dma.ind.br/)
+- [Hensys](https://www.hensys.com.br/)
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
+- [Kasco Pesquisa e Desenvolvimento](https://www.kascosys.com.br/)
 - [Kryptus](https://www.kryptus.com/)
 - [Mecatron](https://www.mecatron.org.br/)
 - [MultiTech](https://www.multittech.com.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
+- [Padtec](https://www.padtec.com.br/)
+- [Planeta Informática](http://www.planeta.inf.br/)
 - [Pósitron - Stoneridge](https://www.positron.com.br/)
+- [Profusion](https://profusion.mobi/)
+- [Start Lighting Division](https://www.star.ind.br/site/pt/)
 - [Stoneridge](https://www.stoneridge.com/careers/)
 - [Samsung](https://www.samsung.com/br/)
 - [Tarvos](https://tarvos.ag/)
+- [Tesybras](http://tesybras.com.br/)
 - [Transdata](https://www.itstransdata.com/)
 - [uDEV](https://www.udev.com.br/)
+- [V2COM](https://v2com.com/)
+- [Vital Tech](https://vitaltech.com.br/)
+- [Von Braun Labs](https://www.vonbraunlabs.com.br/)
+
+#### Carapicuíba
+
+- [Driller](https://driller.com.br/)
+
+#### Cotia
+
+- [CNZ Engenharia Eletrônica](http://www.cnz.com.br/)
 
 #### Diadema
 
 - TRW Automotive
+- [Quimis Aparelhos Científicos](http://www.quimis.com.br/)
 
 #### Guarulhos
 - [Continental](https://www.conti.com.br/)
@@ -340,6 +363,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Pompéia
 - [Jacto](https://www.jacto.com)
+
+#### Santo André
+
+- [DGM Eletrônica](https://www.dgmeletronica.com.br/)
 
 #### São Bernardo do Campo
 
@@ -390,6 +417,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Infolev](http://www.infolev.com.br/)
  - [Itech](https://grupoitech.com.br/)
  - [J.G MORIYA](http://jgmoriya.com.br/)
+ - [Jofen](http://jofen.com.br/)
  - [Kantar](https://br.kantar.com/)
  - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
  - [Magnamed](https://www.inovacoesmagnamed.com.br/)
@@ -399,6 +427,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [OnBoard Mobility Brasil LTDA](https://www.onboardmobility.com/)
  - [Pasquali Solution](http://www.pasqualisolution.com.br/)
  - [Pextron Controles Eletrônicos](https://www.pextron.com/)
+ - [Prodata Mobility Brasil](http://www.prodatamobility.com.br/)
  - [ProLife Equipamentos Médicos Ltda](http://www.prolife.com.br/)
  - [Qualcomm](https://www.qualcomm.com/company/locations/brazil)
  - [Renesas](https://www.renesas.com/br/en/)
@@ -437,5 +466,3 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Tocantins<a name="idTO"></a>
 
 ***
-
-### Distrito Federal<a name="idDF"></a>
