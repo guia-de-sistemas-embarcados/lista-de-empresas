@@ -10,27 +10,27 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 4. [Amazonas](#idAM)
 5. [Bahia](#idBA)
 6. [Ceará](#idCE)
-7. [Distrito Federal](#idDF)
-8. [Espírito Santo](#idES)
-9. [Goiás](#idGO)
-10. [Maranhão](#idMA)
-11. [Mato Grosso](#idMT)
-12. [Mato Grosso do Sul](#idMS)
-13. [Minas Gerais](#idMG)
-14. [Pará](#idPA)
-15. [Paraíba](#idPB)
-16. [Paraná](#idPR)
-17. [Pernambuco](#idPE)
-18. [Piauí](#idPI)
-19. [Rio de Janeiro](#idRJ)
-20. [Rio Grande do Norte](#idRN)
-21. [Rio Grande do Sul](#idRS)
-22. [Rondônia](#idRO)
-23. [Roraima](#idRR)
-24. [Santa Catarina](#idSC)
-25. [São Paulo](#idSP)
-26. [Sergipe](#idSE)
-27. [Tocantins](#idTO)
+7. [Espírito Santo](#idES)
+8. [Goiás](#idGO)
+9. [Maranhão](#idMA)
+10. [Mato Grosso](#idMT)
+11. [Mato Grosso do Sul](#idMS)
+12. [Minas Gerais](#idMG)
+13. [Pará](#idPA)
+14. [Paraíba](#idPB)
+15. [Paraná](#idPR)
+16. [Pernambuco](#idPE)
+17. [Piauí](#idPI)
+18. [Rio de Janeiro](#idRJ)
+19. [Rio Grande do Norte](#idRN)
+20. [Rio Grande do Sul](#idRS)
+21. [Rondônia](#idRO)
+22. [Roraima](#idRR)
+23. [Santa Catarina](#idSC)
+24. [São Paulo](#idSP)
+25. [Sergipe](#idSE)
+26. [Tocantins](#idTO)
+27. [Distrito Federal](#idDF)
 
 ***
 
@@ -283,30 +283,21 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### São Paulo<a name="idSP"></a>
 
-#### Americana
-
-- [Biosensor](http://www.biosensor.com.br/)
-
 #### Atibaia
-
 - [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
 
 #### Barueri
-
 - [Omnilink](www.omnilink.com.br)
 - [Honeywell](https://www.honeywell.com/en-us/global/pt-br)
 
 #### Campinas
-
 - [Agrosmart](https://agrosmart.com.br/)
 - [Bosch](https://www.bosch.com.br/)
 - [CI&T](https://br.ciandt.com/)
 - [CNPEM](http://cnpem.br/)
 - [DMA Ind. e Tecnologia](http://www.dma.ind.br/)
-- [Hensys](https://www.hensys.com.br/)
 - [Idea! Electronic Systems](https://www.idea-ip.com/)
 - [Instituto Eldorado](https://www.eldorado.org.br/)
-- [Kasco Pesquisa e Desenvolvimento](https://www.kascosys.com.br/)
 - [Kryptus](https://www.kryptus.com/)
 - [MultiTech](https://www.multittech.com.br/)
 - [OneRF Networks](http://www.onerf.com.br/)
@@ -326,17 +317,16 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Von Braun Labs](https://www.vonbraunlabs.com.br/)
 
 #### Carapicuíba
-
 - [Driller](https://driller.com.br/)
 
 #### Cotia
-
 - [CNZ Engenharia Eletrônica](http://www.cnz.com.br/)
 
 #### Diadema
 
 - TRW Automotive
 - [Quimis Aparelhos Científicos](http://www.quimis.com.br/)
+- [SMS Legrand](https://www.sms.com.br/)
 
 #### Guarulhos
 - [Continental](https://www.conti.com.br/)
@@ -350,6 +340,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Itupeva
 - [Cliptech](http://cliptech.com.br/)
+- [TEX Equipamentos ELetrônicos](https://www.tex.com.br/)
 
 #### Mogi Guaçu
 - [Phi Innovations](http://www.phiinnovations.com/)
@@ -362,31 +353,31 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Jacto](https://www.jacto.com)
 
 #### Santo André
-
 - [DGM Eletrônica](https://www.dgmeletronica.com.br/)
+- [Comau do Brasil](https://www.comau.com/pt)
 
 #### São Bernardo do Campo
-
 - [Artebtech](https://www.arteb.com.br/)
+- [Ascael](https://www.ascael.com.br/)
 - [EDAG do Brasil](https://www.edag.com.br/br/edag-do-brasil.html)
 - [Gemalto](https://www.gemalto.com/brasil)
 - [KOSTAL](https://kostalbrasil.com.br/)
 - [Quantum Group](http://www.quantumgroup.com.br/institucional.php)
+- [Toledo do Brasil](https://www.toledobrasil.com.br/)
 - [Tury do Brasil](https://www.tury.com.br/site/index.php)
 
 #### São Caetano do Sul
 - [NetVoice](http://www.netvoice.com.br/)
 
 #### São José dos Campos
-
 - [Delta Life (Aredes Equipamentos)](https://www.deltalife.com.br/)
 - [Embraer](https://embraer.com/br/pt)
 - [IACIT Soluções Tecnológicas](http://www.iacit.com.br/)
 - [Omega 7 Systems](https://www.omega7systems.com/)
 
 #### São Paulo
-
  - [ALPHACINE](http://alphacine.com.br/)
+ - [Alfa Instrumentos](http://www.alfainstrumentos.com.br/)
  - [Altran](https://www.altran.com/pt/pt-pt/)
  - [Angoera Sistemas Eletrônicos Ltda.](https://angoera.com.br/)
  - [AOC](http://www.aoc.com.br/)
@@ -395,6 +386,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - Assisfit
  - [Blockbit Teccnologia Ltda.](https://www.blockbit.com/pt/)
  - [CM Comandos Lineares](https://www.cmcomandos.com.br/)
+ - [Comm Solutions](https://www.commsl.com.br/)
  - [Condor Instruments](https://www.condorinst.com.br/)
  - [DIMEP](https://www.dimep.com.br/)
  - [Diebold Nixdorf](https://www.dieboldnixdorf.com.br/)
@@ -405,7 +397,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Expertise Solution](http://www.expertisesolution.com.br/)
  - [Externa](http://www.grupoexterna.es/)
  - [Excel Produtos Eletrônicos LTDA](https://excelbr.com.br/)
- - [FIP](http://www.fip.com.br/2011/index.asp)
+ - [Flexmedia](https://www.flexmedia.com.br/) 
  - [Future Electronics](https://www.futureelectronics.com/)
  - [Gertec](https://www.gertec.com.br/)
  - GW
@@ -417,6 +409,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Jofen](http://jofen.com.br/)
  - [Kantar](https://br.kantar.com/)
  - [Karimex Componentes Eletrônicos Ltda.](https://www.karimex.com.br/)
+ - [KTK](http://www.ktk.ind.br/)
  - [Magnamed](https://www.inovacoesmagnamed.com.br/)
  - [MediaMonks](https://www.mediamonks.com/)
  - [MSX International](https://www.msxi.com/)
@@ -463,3 +456,5 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 ### Tocantins<a name="idTO"></a>
 
 ***
+
+### Distrito Federal<a name="idDF"></a>
