@@ -283,6 +283,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### São Paulo<a name="idSP"></a>
 
+#### Americana
+
+- [Biosensor](http://www.biosensor.com.br/)
+
 #### Atibaia
 
 - [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
