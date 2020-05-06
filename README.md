@@ -350,6 +350,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 - [Continental](https://www.conti.com.br/)
 
 #### Garça
+- [IPEC Eletrônica](https://www.ipec.ind.br/)
 - [Garen - Automação de Portões](https://www.garen.com.br/)
 - [PPA - Conforto com Segurança](https://www.ppa.com.br/)
 
