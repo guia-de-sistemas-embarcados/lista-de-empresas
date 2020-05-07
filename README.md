@@ -364,6 +364,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### Mogi Guaçu
 - [Phi Innovations](http://www.phiinnovations.com/)
 
+#### Morungaba
+- [ZettaLab](https://zettalab.com.br/)
+
 #### Nova Odessa
 - [Metroval](https://metroval.com.br/)
 
