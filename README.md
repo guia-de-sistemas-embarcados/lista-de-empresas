@@ -128,6 +128,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Sitrack](https:/sitrack.com/)
  - [Strider](https://strider.ag/)
  - [Tacom](http://www.tacom.com.br/)
+ - [Unidata Automação](http://unidataautomacao.com.br/)
 
 #### Betim
 
