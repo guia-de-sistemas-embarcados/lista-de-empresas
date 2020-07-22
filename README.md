@@ -186,6 +186,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Curitiba
 
+ - [Auro Tecnologia](https://www.aurotecnologia.com.br/)
  - [Exati Tecnologia](https://exati.com.br/)
  - [FiscatelTech](https://www.fiscaltech.com.br/)
  - [Human Robotics](http://www.humanrobotics.io/)
