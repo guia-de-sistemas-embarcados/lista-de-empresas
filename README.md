@@ -252,6 +252,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 - [Premium Indústria Eletrônica LTDA](http://www.premiumtecnologia.com.br/)
 
+#### Pelotas
+
+- [OSSystems](https://www.ossystems.com.br/)
+
 ***
 
 ### Rondônia<a name="idRO"></a>
@@ -365,6 +369,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Mogi Guaçu
 - [Phi Innovations](http://www.phiinnovations.com/)
+- [EMC Logic](https://www.emc-logic.com/)
 
 #### Morungaba
 - [ZettaLab](https://zettalab.com.br/)
@@ -401,6 +406,11 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 #### São Caetano do Sul
 - [NetVoice](http://www.netvoice.com.br/)
 
+#### São Carlos
+
+- [B2Open Systems](https://www.b2open.com)
+- [Cerebra](https://cerebrasc.com.br/)
+
 #### São José dos Campos
 
 - [Delta Life (Aredes Equipamentos)](https://www.deltalife.com.br/)
@@ -428,6 +438,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Digicrom Analítica Ltda.](https://www.digimed.ind.br/br/)
  - [Digimat](https://digimat.com.br/)
  - [Easytech Tecnologia](https://www.easytech.com.br/)
+ - [Embedded Labworks](https://www.e-labworks.com/)
  - [Enablers](https://enablers.com.br/)
  - [Expertise Solution](http://www.expertisesolution.com.br/)
  - [Externa](http://www.grupoexterna.es/)
