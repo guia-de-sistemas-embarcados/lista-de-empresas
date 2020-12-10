@@ -362,6 +362,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Hortolândia
 - [Altran](https://altran.com.br/)
+- [Marelli](https://www.marelli.com/)
 
 #### Itupeva
 - [Cliptech](http://cliptech.com.br/)
@@ -386,6 +387,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Santa Bárbara d'Oeste
 - [Balmak](http://balmak.com.br/)
+- [Writesys](https://writesys.com.br/)
 
 #### Santo André
 
