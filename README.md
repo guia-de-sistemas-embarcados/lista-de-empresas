@@ -480,6 +480,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Unicoba Energia S.A.](https://unicoba.com.br/)
  - [Vagon](https://vagon.com.br/)
 
+#### Sertãozinho
+- [Tesla Electronics](http://www.teslaelectronics.com.br/)
+
 #### Sorocaba
 - [Flash Engenharia](https://www.flashengenharia.com.br/)
 - [Stattus 4](https://stattus4.com/)
