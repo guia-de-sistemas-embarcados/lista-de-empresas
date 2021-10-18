@@ -301,7 +301,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Atibaia
 
-- [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
+- [Treetech Tecnologia](http://treetech.com.br/)
 
 #### Barueri
 
