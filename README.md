@@ -135,6 +135,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
  - [Altran](https://altran.com.br/)
  - [MSX Internacional](https://www.msxi.com/)
 
+#### Itajubá
+
+- [HVEX](https://hvex.com.br/)
 
 #### Santa Rita do Sapucaí
  - [ATIVA Soluções Tecnológicas](https://www.ativasolucoes.com.br)
@@ -301,7 +304,7 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 #### Atibaia
 
-- [Treetech Sistemas Digitais Ltda](http://treetech.com.br/)
+- [Treetech Tecnologia](http://treetech.com.br/)
 
 #### Barueri
 
