@@ -176,6 +176,10 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### Paraíba<a name="idPB"></a>
 
+#### Campina Grande
+
+- [Virtus](https://www.virtus.ufcg.edu.br/)
+
 ***
 
 ### Paraná<a name="idPR"></a>
