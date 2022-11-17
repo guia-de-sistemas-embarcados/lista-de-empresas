@@ -93,6 +93,9 @@ Lista de empresas brasileiras que desenvolvem sistemas embarcados
 
 ### Goiás<a name="idGO"></a>
 
+- [Bristom](https://bristom.com/)
+- [Ecxus](http://www.ecxus.com.br/)
+- [Smartek-Life](https://smarteklife.com/)
 ***
 
 ### Maranhão<a name="idMA"></a>
